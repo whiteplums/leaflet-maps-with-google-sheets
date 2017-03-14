@@ -10,7 +10,7 @@ Create Leaflet maps with a linked Google Sheets template.
 
 ## Demo
 - Leaflet Map https://whiteplums.github.io/ucsb-memorial-plaques/
-- Google Sheet template https://docs.google.com/spreadsheets/d/1Qa2FXVetIA-9CQuG4Cry3NLxgLggSAndWrA1I9-7Bp4/edit#gid=0
+- Google Sheet template https://docs.google.com/spreadsheets/d/1Qa2FXVetIA-9CQuG4Cry3NLxgLggSAndWrA1I9-7Bp4/edit?usp=sharing
 
 ## BETA version
 - Report bugs and suggest features in [Issues](https://github.com/JackDougherty/leaflet-maps-with-google-sheets/issues)
